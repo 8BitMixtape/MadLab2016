@@ -10,3 +10,5 @@ contact: marc@dusseiller.ch
 
 # Berliner Schule 8Step MixTape parts placement
 ![Berliner Schule 8Step Sequencer](https://raw.githubusercontent.com/8BitMixtape/Fablab-Neckar-Alb/master/8Step-MixTape/images/8Step-MixTape_partsPlacing.jpg)
+
+![Berliner Schule Mad 8Step Sequencer](https://github.com/8BitMixtape/MadLab2016/blob/master/8Step-MixTape/images/8Step-MixTape_partLayoutNew.png)
